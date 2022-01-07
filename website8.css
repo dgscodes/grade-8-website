@@ -4,9 +4,53 @@ body{
 
 h3{
 	text-align: right;
+	font-size: 17px;
+	font-family: Helvetica;
 }
 
 h1{
 	text-align: center;
 	font-size: 50px;
+	font-family: Baskerville, Helvetica;
 }
+
+p{
+	font-family: Helvetica Neue;
+}
+
+h2{
+	font-family: Baskerville;
+}
+
+button{
+	border-radius: 30px;
+	border-style: solid;
+}
+
+a{
+	color: black;
+	text-underline-position: under;
+
+}
+
+footer{
+	text-align: center;
+	background-color: #FFFABA;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin: 0px;
+	}
+
+footer a{
+	color: black;
+}
+
+img{
+	max-width: 100px;
+}
+
+footer{
+  width:100%;
+  position:absolute;
+ 
+  }
