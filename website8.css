@@ -8,11 +8,15 @@ h3{
 	font-family: Helvetica;
 }
 
+
 h1{
 	text-align: center;
 	font-size: 50px;
 	font-family: Baskerville, Helvetica;
+	max-height: 35px;
+	padding-left: 10px;
 }
+
 
 p{
 	font-family: Helvetica Neue;
@@ -20,11 +24,14 @@ p{
 
 h2{
 	font-family: Baskerville;
+	font-size: 43px;
 }
 
 button{
 	border-radius: 70px;
 	border-style: solid;
+	border-width: black;
+	text-align: center;
 }
 
 a{
@@ -62,8 +69,8 @@ footer{
 
   h1{
   	background-color: #FFFABA;
-  	margin: 100px;
-  	max-width: 375px ;
+  	margin: 70px;
+  	max-width: 430px ;
   }
 
 h6{
@@ -75,10 +82,16 @@ footer p{
 	font-size: 20px;
 }
 
-p i{	font-size: 20px;
+p i{	
 
+	font-size: 20px;
+	color: #A6A6A6;
+	text-align: center;
 }
 
+p a{
+	font-size: 30px;
+}
 
 button{
 	background-color: #FFFABA;
