@@ -93,6 +93,13 @@ p a{
 	font-size: 30px;
 }
 
+span p{
+	text-align: center;
+	background-color: #FFFABA;
+	margin: 30px;
+
+}
+
 button{
 	background-color: #FFFABA;
 	font-family: Helvetica;
