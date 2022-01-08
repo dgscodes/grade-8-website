@@ -1,5 +1,6 @@
 body{
 	background-color: #EDEDED;
+	margin: 10px;
 }
 
 h3{
@@ -69,7 +70,7 @@ footer{
 
   h1{
   	background-color: #FFFABA;
-  	margin: 70px;
+  	margin: 50px;
   	max-width: 430px ;
   }
 
@@ -86,7 +87,6 @@ p i{
 
 	font-size: 20px;
 	color: #A6A6A6;
-	text-align: center;
 }
 
 p a{
