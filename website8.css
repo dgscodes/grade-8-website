@@ -12,11 +12,12 @@ h3{
 
 h1{
 	text-align: center;
-	font-size: 35px;
+	font-size: 40px;
 	font-family: Baskerville, Helvetica;
-	max-height: 25px;
+	max-height: 30px;
 	padding-left: 5px;
-	margin: 50px;
+	max-width: 30px;
+
 }
 
 
@@ -72,7 +73,7 @@ footer{
   h1{
   	background-color: #FFFABA;
   	margin: 50px;
-  	max-width: 430px ;
+  	max-width: 270px;
   }
 
 h6{
