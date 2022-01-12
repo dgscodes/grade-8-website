@@ -83,6 +83,11 @@ h6{
 
 footer p{
 	font-size: 20px;
+	margin: 0px;
+	padding: 20px ;
+	padding-left: 30px;
+	padding-right: 30px;
+
 }
 
 p i{	
@@ -99,6 +104,8 @@ span p{
 	text-align: center;
 	background-color: #FFFABA;
 	margin: 30px;
+	font-size: 30px;
+
 
 }
 
