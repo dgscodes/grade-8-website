@@ -20,6 +20,10 @@ h1{
 
 }
 
+img{
+	max-width: 60px;
+	max-height: 90px;
+}
 
 p{
 	font-family: Helvetica Neue;
