@@ -66,6 +66,7 @@ font-size: 40px;
 
 img{
 	max-width: 100px;
+	max-height: auto;
 }
 
 footer{
